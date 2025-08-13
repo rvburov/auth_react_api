@@ -6,19 +6,19 @@
 - Показ/скрытие паролей с иконками
 - Обработка всех ошибок
 
-# Шаг 1: Создание React проекта
+### Шаг 1: Создание React проекта
 npx create-react-app auth-frontend
 cd auth-frontend
 
-# Шаг 2: Установка дополнительных зависимостей
+### Шаг 2: Установка дополнительных зависимостей
 npm install lucide-react
 
-# Шаг 3: Установка Tailwind CSS
+### Шаг 3: Установка Tailwind CSS
 npm install -D tailwindcss@3.4.17 postcss@latest autoprefixer@latest
 npx tailwindcss init -p
 
-# Шаг 4: Запуск проекта
+### Шаг 4: Запуск проекта
 npm start
 
-# Шаг 5: Откройте браузер:
+### Шаг 5: Откройте браузер:
 React приложение: http://localhost:3000
